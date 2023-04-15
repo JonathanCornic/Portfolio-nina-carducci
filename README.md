@@ -34,7 +34,7 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Le site avant intervention
 
-1 suivez ce lien [https://nina-carducci.github.io/]
+1. suivez ce lien [https://nina-carducci.github.io/]
 
 ## Comment exécuter le projet localement
 
