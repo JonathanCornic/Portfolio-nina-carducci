@@ -32,6 +32,10 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 - jquery
 - Git
 
+## Le site avant intervention
+
+1 suivez ce lien [https://nina-carducci.github.io/]
+
 ## Comment exécuter le projet localement
 
 1. Clonez le repository : `git clone https://github.com/JonathanCornic/Portfolio-nina-carducci.git`
