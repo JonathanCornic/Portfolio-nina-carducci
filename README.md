@@ -34,7 +34,7 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Le site avant intervention
 
-1. suivez ce lien [https://nina-carducci.github.io/{:target="_blank"}]
+1. suivez ce lien https://nina-carducci.github.io/
 
 ## Comment exécuter le projet localement
 
@@ -44,11 +44,11 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment voir le rendu hébergé
 
-1. suivez ce lien github pages <a href="https://jonathancornic.github.io/Portfolio-nina-carducci/" target="_blank">https://jonathancornic.github.io/Portfolio-nina-carducci/</a>
-2. suivez ce lien vers clouflare <a href="https://portfolio-nina-carducci.pages.dev/" target="_blank">https://portfolio-nina-carducci.pages.dev/</a>
+1. suivez ce lien github pages https://jonathancornic.github.io/Portfolio-nina-carducci/
+2. suivez ce lien vers clouflare https://portfolio-nina-carducci.pages.dev/
 
 ## Comment me contacter
 
-Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par e-mail à [cornicjonathan@gmail.com{:target="_blank"}] ou via mon profil LinkedIn à [https://www.linkedin.com/in/jonathan-cornic-024607262/{:target="_blank"}].
+Si vous avez des questions, des commentaires ou des propositions de collaboration, n'hésitez pas à me contacter par e-mail à cornicjonathan@gmail.com ou via mon profil LinkedIn à https://www.linkedin.com/in/jonathan-cornic-024607262/.
 
 Je suis fier d'avoir contribué à l'amélioration de l'accessibilité, des performances et du SEO du portfolio de Nina Carducci, et je suis heureux de partager cette expérience avec vous.
