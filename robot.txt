@@ -1,2 +1,0 @@
-user-agent: *
-sitemap: https://portfolio-nina-carducci.pages.dev/sitemap.xml
