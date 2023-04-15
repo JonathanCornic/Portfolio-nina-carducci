@@ -44,8 +44,8 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment voir le rendu hébergé
 
-1. suivez ce lien github pages [https://jonathancornic.github.io/Portfolio-nina-carducci/{:target="_blank"}]
-2. suivez ce lien vers clouflare [https://portfolio-nina-carducci.pages.dev/{:target="_blank"}]
+1. suivez ce lien github pages <a href="https://jonathancornic.github.io/Portfolio-nina-carducci/" target="_blank">https://jonathancornic.github.io/Portfolio-nina-carducci/</a>
+2. suivez ce lien vers clouflare <a href="https://portfolio-nina-carducci.pages.dev/" target="_blank">https://portfolio-nina-carducci.pages.dev/</a>
 
 ## Comment me contacter
 
