@@ -38,8 +38,8 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 
 ## Comment exécuter le projet localement
 
-1. Clonez le repository : `git clone https://github.com/JonathanCornic/Portfolio-nina-carducci.git`
-2. Accédez au dossier du projet : `cd nina-carducci-portfolio`
+1. Ouvrir un terminal : entrer `cd desktop`
+2. Clonez le repository : entrer git clone `git clone https://github.com/JonathanCornic/Portfolio-nina-carducci.git`
 3. Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le portfolio localement.
 
 ## Comment voir le rendu hébergé
